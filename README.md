@@ -4,6 +4,7 @@ curso do alura praticando responsividade com Flexbox e Grid
 
 curso ja finalizadado 
 
-em brve:
+praticando:
 
-- proxima pagina sera feita
+-fazendo a pagina de Topicos 
+    começando na parte mobile depois desktop
